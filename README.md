@@ -4,13 +4,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+  - [Author](#author)
 
 
 ## Overview
@@ -34,15 +36,7 @@ This is my first-ever frontend mentor challenge. This is a qrcode component made
 
 ### What I learned
 
-I struggled trying to center everything because I'm new to HTML and CSS but everything worked out thanks to 
-```css 
-flex
-```
-At first all the elements were side-by-side even I was centering everything. It got me so frustrated lol. I used 
-```css 
-flex-direction: column
-``` 
-and it worked out well. Centering the component itself was a struggle for me as well. At first the qr-code is at the top of the page and I kept on putting center, all center styles I know but in the end all I need was to give it a padding. This front end mentor challenge is super beginner friendly. But a little bit of working CSS and HTML really helps.
+I struggled trying to center everything because I'm new to HTML and CSS but everything worked out thanks to ```flex```. At first all the elements were side-by-side even I was centering everything. It got me so frustrated lol. I used ```flex-direction: column``` and it worked out well. Centering the component itself was a struggle for me as well. At first the qr-code is at the top of the page and I kept on putting center, all the center styles I know but in the end all I need was to give it a padding. This front end mentor challenge is super beginner friendly. But a little bit of working knowledge CSS and HTML really helps.
 
 ## Author
 
