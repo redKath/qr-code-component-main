@@ -21,8 +21,8 @@ This is my first-ever frontend mentor challenge. This is a qrcode component made
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-Qp3pss-PYb)
-- Live Site URL: [Add live site URL here](https://symphonious-torte-921042.netlify.app/)
+- Solution URL: [QR Code Component by Redkath](https://www.frontendmentor.io/solutions/qr-code-component-Qp3pss-PYb)
+- Live Site URL: [QR Code Component Live](https://symphonious-torte-921042.netlify.app/)
 
 ## My process
 
